@@ -1,0 +1,9 @@
+// Players
+export const REQUEST_PLAYERS = 'REQUEST_PLAYERS';
+export const RECEIVE_PLAYERS = 'RECEIVE_PLAYERS';
+export const INVALIDATE_PLAYERS = 'INVALIDATE_PLAYERS';
+// Filters
+export const SET_NAME_FILTER = 'SET_NAME_FILTER';
+export const SET_POSITION_FILTER = 'SET_POSITION_FILTER';
+export const SET_AGE_FILTER = 'SET_AGE_FILTER';
+export const SET_FILTERS = 'SET_FILTERS';
